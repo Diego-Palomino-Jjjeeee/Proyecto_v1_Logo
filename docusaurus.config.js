@@ -17,7 +17,7 @@ const config = {
   baseUrl: '/buho/',
 
   // GitHub pages deployment config.
-  organizationName: 'Palomino-Diego-Jjjeeee',
+  organizationName: 'Diego-Palomino-Jjjeeee',
   projectName: 'buho',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
